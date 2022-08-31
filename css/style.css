@@ -30,10 +30,6 @@ body{
     background-image: url(../imagenes/fondocontacto.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-<<<<<<< HEAD
-    opacity: 0.7;
-=======
->>>>>>> 706af44 (Correcciones entrega)
 }
 
 .imgfondo-oficinas{
@@ -56,8 +52,6 @@ h1{
 
 p{
     letter-spacing: 2px;
-<<<<<<< HEAD
-=======
 }
 
 .imgfondo-profesionales{
@@ -77,5 +71,4 @@ p{
         display: flex;
         flex-direction: column;
     }
->>>>>>> 706af44 (Correcciones entrega)
 }
