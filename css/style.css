@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Cantarell&family=Dosis:wght@200&family=Oswald:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Cantarell&family=Dosis:wght@200&family=Oswald:wght@200&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* LOGO */
+
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.titulo-huno{
+    font-size: 2rem;
+}
+
+
+.inicio-huno{
+    color: rgb(131, 33, 33);
+}
+
+.carousel-inner{
+    max-height: 35rem;
+}
+
+.imgfondo-contacto{
+    background-image: url(../imagenes/fondocontacto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+<<<<<<< HEAD
+    opacity: 0.7;
+=======
+>>>>>>> 706af44 (Correcciones entrega)
+}
+
+.imgfondo-oficinas{
+    background-image: url(../imagenes/);
+}
+
+.imgfondo-nosotros{
+    background-image: url(../imagenes/A\ truly\ blurred\ typology\ by\ Christopher\ Elliott\ Design\ _\ IndesignLive.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.parrafo-nosotros{
+    background-color: rgb(248, 226, 198);
+}
+
+h1{
+    letter-spacing: 2px;
+}
+
+p{
+    letter-spacing: 2px;
+<<<<<<< HEAD
+=======
+}
+
+.imgfondo-profesionales{
+    text-align: center;
+}
+
+.imgfondo-oficinas{
+    background-image: url(../imagenes/Imagen1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+@media (max-width: 320px){
+    .links-footer{
+        display: flex;
+        flex-direction: column;
+    }
+>>>>>>> 706af44 (Correcciones entrega)
+}
